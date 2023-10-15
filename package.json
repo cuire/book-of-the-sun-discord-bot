@@ -1,7 +1,7 @@
 {
-  "name": "reacord-starter",
-  "version": "0.0.0",
-  "description": "My awesome Discord bot made with Reacord ✨",
+  "name": "book-of-sun-bot",
+  "version": "0.0.1",
+  "description": "Dice Rolling bot for custom RPG system  ✨",
   "license": "MIT",
   "main": "dist/main.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "cross-env": "^7.0.3",
-    "discord.js": "^14.1.2",
+    "discord.js": "^14.13.0",
     "dotenv": "^16.0.1",
     "reacord": "^0.5.1",
     "react": "^18.2.0"
