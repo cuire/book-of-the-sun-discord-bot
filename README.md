@@ -1,7 +1,7 @@
 # 🌌 Book of the Sun Discord Bot
 
 A Dice rolling Discord bot for the Book of the Sun Discord rpg system.
-Builted as an oportunity to play with [reacord](https://github.com/itsMapleLeaf/reacord).
+Built as an opportunity to play with [reacord](https://github.com/itsMapleLeaf/reacord).
 
 ## Getting Started
 
